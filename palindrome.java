@@ -1,4 +1,4 @@
-public class PalindromeChecker {
+public class palindrome {
 
     public static void main(String[] args) {
         String testString1 = "madam";
